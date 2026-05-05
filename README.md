@@ -77,4 +77,6 @@ MIT
 ## Contact
 Mail: m14332121@gmail.com
 
+---
+
 Feel free to customize this README further based on your specific needs!
